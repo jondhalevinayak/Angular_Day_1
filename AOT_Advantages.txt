@@ -1,0 +1,7 @@
+Advantage of using AOT Build
+
+Faster Rendering
+Fewer Asynchronous Calls
+Catch Template Errors before deployment
+Better Security
+Smaller Angular Framework Download Size
